@@ -1,12 +1,12 @@
 body {
   background-color: black;
   font-family: Verdana;
+  text-align: center;
 }
 
 header {
   color: white;
   font-size: 50px;
-  text-align: center;
 }
 
 a {
